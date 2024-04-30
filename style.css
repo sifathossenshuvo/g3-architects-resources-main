@@ -57,6 +57,7 @@ nav>ul>li {
     max-width: 800px;
     text-align: center;
     margin: 0 auto;
+    
 }
 
 .banner-title {
@@ -119,7 +120,7 @@ nav>ul>li {
 }
 
 
-.banner img {
+.banner video {
     margin-top: 20px;
     width: 100%;
 }

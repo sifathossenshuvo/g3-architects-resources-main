@@ -9,6 +9,10 @@
     font-family: "Work Sans", sans-serif;
 
 }
+html{
+  transition: scroll 10s;
+  
+}
 
 
 /* Header style */
@@ -266,12 +270,12 @@ font-size: 1.5rem;
     
 }
 
-
 /* responsive media queries */
 /* mobile devices */
 @media screen and (max-width: 576px) {
     header {
         padding: 20px;
+        
     }
 
 
